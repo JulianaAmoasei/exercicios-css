@@ -1,22 +1,65 @@
 li{
+/*  float: left;
+  list-style: none;*/
 }
 ul{
+/*  overflow: auto;*/
 }
 
 main, article {
+/*  border: 1px solid black;
+  padding: 5px;*/
 }
 
 main{
+/*  width: 45%;
+  float: left;*/
 } 
 
 .lateral-um{
+/*  float: left;
+  width: 25%;*/
 }
 
 .lateral-dois{
+/*  float: right;
+  width: 25%;*/
 }
 
 footer{
+/*  clear: both;
+  background-color: yellow;*/
+  /*overflow: auto;*/
 }
 
 footer p{
+/*  float: right;*/
 }
+
+.clearfix {
+/*  clear: both;*/
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
